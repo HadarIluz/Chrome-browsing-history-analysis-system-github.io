@@ -1,6 +1,7 @@
 # Chrome-browsing-history-analysis-system
 Chrome browsing history analysis system
 
+theme:Architect
 
 <html>
 <head>
@@ -11,7 +12,6 @@ Chrome browsing history analysis system
 
 <h1> This is our group home page</h1>
 
-<p>You can reach our team members at:</p>
 
 <hr>
 </body>
