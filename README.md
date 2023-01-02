@@ -14,3 +14,5 @@ Chrome browsing history analysis system
 <p>You can reach our team members at:</p>
 
 <hr>
+</body>
+</html>
