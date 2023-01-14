@@ -10,9 +10,6 @@ theme:Architect
 
 <body style="background-color:powderblue;" 
 
-<h1> This is our group home page</h1>
-
-
 <hr>
 </body>
 </html>   
